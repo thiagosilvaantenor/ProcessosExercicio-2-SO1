@@ -9,7 +9,11 @@
 </div>
 
 ## Sobre o projeto
-Este é o exercício 2, da lista de exercícios de processos em Windows e Linux, da materia de Sistemas Operacionais 1 do curso de Análise e desenvolvimento de sistemas da FATEC Zona Leste.
+Este é o exercício 2, da lista de exercícios de processos em Windows e Linux, da materia de Sistemas Operacionais 1 do curso de Análise e desenvolvimento de sistemas da FATEC Zona Leste.<br>
+
+Caso queira ver os outros exercícios:
+- [Exercício 1](https://github.com/thiagosilvaantenor/ProcessosExercicio-1-SO1)
+- [Exercício 3](https://github.com/thiagosilvaantenor/ProcessosExercicio-3-SO1)
 
 ## Índice
 =================
