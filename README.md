@@ -17,7 +17,7 @@ Este é o exercício 2, da lista de exercícios de processos em Windows e Linux,
 * [Título](#exercício-2-de-processos---sistemas-operacionais-1)
 * [Sobre o Projeto](#sobre-o-projeto)
 * [Índice](#índice)
-* [Exercício 1](#exercício-2)
+* [Exercício 2](#exercício-2)
 * [Status do projeto](#status-do-projeto)
 * [Tecnologias](#tecnologias)
 * [Agradecimentos](#agradecimentos)
