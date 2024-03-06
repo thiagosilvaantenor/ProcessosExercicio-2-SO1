@@ -14,6 +14,7 @@ Este é o exercício 2, da lista de exercícios de processos em Windows e Linux,
 Caso queira ver os outros exercícios:
 - [Exercício 1](https://github.com/thiagosilvaantenor/ProcessosExercicio-1-SO1)
 - [Exercício 3](https://github.com/thiagosilvaantenor/ProcessosExercicio-3-SO1)
+- [Exercício 4](https://github.com/thiagosilvaantenor/ProcessosExercicio-4-SO1)
 
 ## Índice
 =================
@@ -74,7 +75,7 @@ Criar em Eclipse, um novo Java Project com uma classe chamada `KillController.ja
   - [InputStreamReader](https://docs.oracle.com/javase/8/docs/api/java/io/InputStreamReader.html)
 
 ## Agradecimentos
-Agradeço ao professor da disciplina de Sistemas Operacionais 1, Leandro Colevati, por todo o aprendizado passado.
+Agradeço ao professor da disciplina de Sistemas Operacionais 1, [Leandro Colevati dos Santos](https://www.leandrocolevati.com.br/index.jsp), por todo o aprendizado passado.
 
 ## Autor
 
